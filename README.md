@@ -2,7 +2,7 @@
     <img src="media/xstack-shop-logo.svg" alt="xshop logo" width="600">
 </div>
 
-# xShop
+# xShop1
 
 x-shop is an open source shop developed in laravel, very customizable!
 
